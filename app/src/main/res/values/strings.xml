@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GITApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <string name="detail">Detail</string>
+    <string name="menu_1">menu_1</string>
+    <string name="menu_2">menu_2</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Notification</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Get Notification Daily at 09:00 AM</string>
+    <string name="key_alarm">notif</string>
+
+</resources>
